@@ -1,4 +1,7 @@
-# test coverage for  [ember-localstorage-adapter (v1.0.0)](https://github.com/locks/ember-localstorage-adapter)  [![npm package](https://img.shields.io/npm/v/npmtest-ember-localstorage-adapter.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ember-localstorage-adapter) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ember-localstorage-adapter.svg)](https://travis-ci.org/npmtest/node-npmtest-ember-localstorage-adapter)
+# npmtest-ember-localstorage-adapter
+
+#### basic test coverage for  [ember-localstorage-adapter (v1.0.0)](https://github.com/locks/ember-localstorage-adapter)  [![npm package](https://img.shields.io/npm/v/npmtest-ember-localstorage-adapter.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ember-localstorage-adapter) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ember-localstorage-adapter.svg)](https://travis-ci.org/npmtest/node-npmtest-ember-localstorage-adapter)
+
 #### Store your Ember application data in LocalStorage.
 
 [![NPM](https://nodei.co/npm/ember-localstorage-adapter.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ember-localstorage-adapter)
@@ -109,7 +112,8 @@
         "start": "ember server",
         "test": "ember try:testall"
     },
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "bin": {}
 }
 ```
 
